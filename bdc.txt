@@ -1,0 +1,27 @@
+{ "urls": [{ "url": "./tvboxqq/饭太硬/api.json", "name": "饭太硬" },
+
+{ "url": "./tvboxqq/小米/api.json", "name": "小米" },
+
+{ "url": "./tvboxqq/肥猫/api.json", "name": "肥猫" },
+
+{ "url": "./tvboxqq/道长js/api.json", "name": "道长js" },
+
+{ "url": "./tvboxqq/高天流云js/api.json", "name": "高天流云js" },
+
+{ "url": "./tvboxqq/高天流云XYQ/api.json", "name": "高天流云XYQ" },
+
+{ "url": "./tvboxqq/荷城茶秀/api.json", "name": "荷城茶秀" },
+
+{ "url": "./tvboxqq/多多/api.json", "name": "多多" },
+
+{ "url": "./tvboxqq/南风/api.json", "name": "南风" },
+
+{ "url": "./tvboxqq/夜猫子/api.json", "name": "夜猫子" },
+
+{ "url": "./tvboxqq/少儿频道/api.json", "name": "少儿频道" },
+
+{ "url": "./tvboxqq/动漫频道/api.json", "name": "动漫频道" },
+
+{ "url": "./tvboxqq/菜妮丝/api.json", "name": "菜妮丝" },
+
+{ "url": "./tvboxqq/巧儿/api.json", "name": "巧儿" }]}
